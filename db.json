@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 79
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 23
+    },
+    {
+      "title": "Product 4",
+      "price": "56",
+      "id": 4
+    },
+    {
+      "title": "Product 5",
+      "price": "344",
+      "id": 5
+    }
+  ],
+  "coba" :[
+    {"data1" : "data 1"}
+  ]
+}

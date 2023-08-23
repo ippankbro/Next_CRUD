@@ -1,0 +1,8 @@
+fetch :get server side props
+
+static side regeneretion
+
+
+server component
+
+client component
